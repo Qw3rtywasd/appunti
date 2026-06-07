@@ -1,0 +1,1 @@
+Il *wakan konkō buntai* 和漢混淆文体 è uno stile di scrittura tipico del periodo Kamakura che utilizza vocaboli sia sino-giapponesi che giapponesi, basato sulla grammatica del [[Periodizzazione#E il “giapponese classico”?|giapponese classico]].

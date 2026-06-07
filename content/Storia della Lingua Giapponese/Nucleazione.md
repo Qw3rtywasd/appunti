@@ -1,0 +1,2 @@
+La nucleazione di un carattere è quando si semplifica prendendone un pezzo
+cominciarono a scrivere solo le parti (più caratteristiche? importanti? veloci? facili? convenienti?) del carattere > *katakana*

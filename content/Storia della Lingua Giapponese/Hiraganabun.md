@@ -1,0 +1,1 @@
+L’*hiraganabun* ひらがな文 è lo stile di scrittura dei testi in prosa (*nikki*, *monogatari*, *zuihitsu*) o in versi (*waka* e in particolare il *Kokin wakashū*) scritti interamente in *hiragana*, solitamente durante il periodo Heian.

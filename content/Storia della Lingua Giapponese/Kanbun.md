@@ -1,0 +1,8 @@
+Il *kanbun* 漢文 è una forma di <span class="underline">cinese classico scritto</span> che sin dall’[[Introduzione della scrittura|introduzione della scrittura]] è stata la lingua della burocrazia e del clero. In teoria limitato agli uomini, di fatto era conosciuto anche da molte donne della corte Heian (come Murasaki Shikibu).
+I testi  in *kanbun* erano inizialmente trattati come testi in lingua straniera, ma successivamente iniziarono a venire prodotti anche dai giapponesi.
+Il *kanbun* ha influenzato la lingua giapponese attraverso l’introduzione dei vocaboli cinesi (*kango* 漢語).
+A volte è definito *jun-kanbun*, “*kanbun* puro”, specie quando è contrapposto all’*[[Hentai kanbun|hentai kanbun]]*, “*kanbun* modificato”.
+# Ondoku
+Il *kanbun ondoku* 漢文音読 (lettura alla cinese del *kanbun*) consiste nel pronunciare i caratteri cinesi con la <span class="underline">lettura sino-giapponese</span> (*[[Onyomi|onyomi]]*). Si segue l’ordine del testo, e quindi l’ordine sintattico SVO del cinese. I *sūtra* vengono letti esclusivamente in questo modo.
+# Kundoku
+Il *kanbun kundoku* 漢文訓読 (lettura alla giapponese del *kanbun*), anche detto *yomi-kudashi*, consiste nel <span class="underline">tradurre al momento un testo in <em>kanbun</em> in giapponese</span>. È molto più complicato dell’*ondoku* perché bisogna tenere conto della diversa struttura sintattica (cinese SVO, giapponese SOV), sostituire le parole cinesi con equivalenti giapponesi e aggiungere elementi grammaticali del giapponese che mancano in cinese. Per questo nel periodo Heian si svilupparono due tipi di aiuti alla lettura: gli *[[Okototen|okototen]]* e i *[[Kunten|kunten]]*.

@@ -1,0 +1,1 @@
+Gli ideofoni sono parole simili alle onomatopee ma che invece di riprodurre un suono reale <span class="underline">riproducono un’idea</span>: *goro goro* ‘rilassamento’.

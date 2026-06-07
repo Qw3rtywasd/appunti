@@ -1,0 +1,1 @@
+Un nesso vocalico è una sequenza di <span class="underline">due o più vocali di fila</span> all’interno di una parola.

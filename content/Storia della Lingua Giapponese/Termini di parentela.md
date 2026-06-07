@@ -1,0 +1,1 @@
+Come in altre lingue dell’Asia orientale, nei termini di parentela si fanno distinzioni di anzianità (姉 / 妹, 兄 / 弟). I termini hanno inoltre forme piane e forme cortesi (父 / お父さん, おば / おばさん)

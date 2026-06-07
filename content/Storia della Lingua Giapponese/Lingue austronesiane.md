@@ -1,0 +1,3 @@
+Le lingue austronesiane appartengono a una famiglia che …
+La caratteristica che porta studiosi a collegare il giapponese a esse è la semplicità delle sillabe/parole CVCV
+![[Map-of-the-Austronesian-languages.webp]]

@@ -1,0 +1,6 @@
+- Il lessico di origine giapponese aumenta
+	- attraverso la formazione di [[Composti e derivati|composti e derivati]]
+		- nomi + aggettivi
+		- + raka yaka adaadawdnwd
+	- aumentano gli [[Ideofoni|ideofoni]] e in misura minore le onomatopee
+- Con l’influenza della cultura continentale il lessico di origine cinese si diffonde in ogni ambito: poesia, commentari, critica, letteratura

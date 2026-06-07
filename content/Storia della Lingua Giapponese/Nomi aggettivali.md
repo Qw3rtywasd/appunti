@@ -1,0 +1,1 @@
+I nomi aggettivali (*keiyōdōshi* 形容動詞 o *na keiyōshi* な形容詞 ‘aggettivi in *na*’) sono <span class="underline">sostantivi che (come veri aggettivi) modificano altri sostantivi</span>.

@@ -1,0 +1,1 @@
+Nell’alfabeto fonetico internazionale (IPA), la lettera *j* indica l’<span class="underline">approssimante palatale</span>. È il suono prima della *e* in *ieri*.

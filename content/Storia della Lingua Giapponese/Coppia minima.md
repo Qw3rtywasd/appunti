@@ -1,0 +1,1 @@
+In [[Fonetica|fonetica]], una coppia minima è una coppia di parole che differiscono per un solo [[Fonetica#Fono|suono]] o caratteristica di pronuncia (ad esempio l’accento tonale).

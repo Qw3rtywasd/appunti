@@ -1,0 +1,2 @@
+Gli *okototen* sono una forma di aiuto alla lettura in giapponese dei testi scritti in cinese (*[[Kanbun# Kundoku|kanbun kundoku]]*). Si tratta di puntini o trattini aggiunti attorno a un singolo carattere del testo originale. In base alla posizione relativa al carattere indicano. Sviluppati dai monaci buddhisti, ___esistevano___ vari sistemi da un monastero ad un altro. In contemporanea svilupparono il *katakana*?
+![[okototen.png]]

@@ -1,0 +1,9 @@
+- Virtualmente isolata (vedi [[Teorie sulle origini del giapponese|teorie sulle origini del giapponese]])
+- Continuum di variazione diatopica (dialetti) solo all’interno del Giappone
+- [Accento tonale](https://www.youtube.com/watch?v=6MrL7Nl9G2k)
+- Tipologia [[Morfologia|morfologica]] [[Flessione|flessivo]]-[[Agglutinazione|agglutinante]]
+- Struttura grammaticale: ordine sintattico SOV; struttura [[Tema e rema|tema-rema]]
+- Sistema di scrittura ibrido
+- [[Lessico nativo]] di [[Colori|colori]] e [[Numerali|numerali]] semplice, ma [[Termini di parentela|termini di parentela]] complessi
+- Linguaggio relazionale
+- Grande quantità di prestiti linguistici (*kango* 漢語 e *katakana-go* カタカナ語)

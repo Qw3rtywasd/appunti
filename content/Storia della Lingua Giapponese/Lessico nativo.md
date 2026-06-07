@@ -1,0 +1,1 @@
+Fanno parte del lessico nativo (o di base) quelle <span class="underline">parole legate a concetti basilari e di uso quotidiano</span> come la famiglia, il corpo umano, la natura, i colori e i numeri. Il lessico nativo tende ad essere <span class="underline">resistente ai cambiamenti della lingua</span> e per questo può essere utile per risalire alle sue forme più antiche.

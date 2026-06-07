@@ -1,0 +1,1 @@
+In giapponese i suffissi coniugabili <span class="underline">si attaccano a verbi e aggettivi per svolgere varie funzioni</span>. Si coniugano proprio come dei verbi ma non sono utilizzabili da soli e per questo sono chiamati anche <span class="underline">“verbi ausiliari”</span>.

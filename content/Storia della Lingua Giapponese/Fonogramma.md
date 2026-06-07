@@ -1,0 +1,1 @@
+Un carattere utilizzato per il suo valore [[Fonetica|fonetico]].

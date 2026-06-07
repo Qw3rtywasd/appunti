@@ -1,0 +1,1 @@
+L’uso del kana っ per rendere la geminazione consonantica è stato ispirato dall’uso della sillaba tu per rendere la finale -t nelle parole sino-giapponesi (*sōbetsu*)

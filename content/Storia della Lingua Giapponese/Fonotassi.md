@@ -1,0 +1,1 @@
+La fonotassi è la parte della [[Fonologia|fonologia]] che studia le relazioni tra i [[Fonologia#Fonema|fonemi]] di una lingua, indicando quali sequenze sono ammesse e quali no. Per esempio, in italiano /gn/ e /gl/ devono essere sempre seguiti da vocale.

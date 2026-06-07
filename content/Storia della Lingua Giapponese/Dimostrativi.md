@@ -1,0 +1,1 @@
+I dimostrativi sono elementi grammaticali che identificano persone, animali o cose nello spazio, nel tempo o nel discorso sulla base della lontananza rispetto a chi parla o ascolta.
