@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: it-IT
-  baseUrl: qw3rtywasd.github.io
+  baseUrl: qw3rtywasd.github.io/appunti
   ignorePatterns:
     - private
     - templates
