@@ -39,7 +39,7 @@ export default {
       createdWith: "Creato con",
     },
     graph: {
-      title: "Grafico collegamenti",
+      title: "Collegamenti",
     },
     recentNotes: {
       title: "Note recenti",
