@@ -10,7 +10,10 @@ Nel giapponese antico esistevano 8 coniugazioni verbali:
 	- *Sagyō henkaku* サ行変格 (irregolare in *sa*) del verbo *su* ‘fare’, antenato di *suru*
 	- *Nagyō henkaku* ナ行変格 (irregolare in *na*) dei verbi *sinu* ‘morire’ e *inu* ‘andare via’
 	- *Ragyō henkaku* ラ行変格 (irregolare in *ra*) del verbo *ari* ‘esserci’ e di tutti i verbi composti che terminano con esso
-## Sillabe *kō* e *otsu* nelle basi verbali
+
+La moderna coniugazione *godan* deriva dalla coniugazione *yodan*, mentre la *ichidan* deriva sia dai verbi *shimo/kami ichidan* che da quelli *nidan* (dopo il fenomeno dell’*[[Ichidanka|ichidanka]]*, “cambiamento in *ichidan*”).
+I verbi *yodan* sono anche detti <span class="underline">verbi consonantici</span> perché l’ultima lettera della radice è una consonante. I verbi *ichidan* e *nidan* sono invece detti <span class="underline">verbi vocalici</span>, in quanto la radice termina sempre in una vocale (*i*, *u*, *e*).
+## Sillabe *kō* e *otsu* nelle basi verbalina
 In alcune coniugazioni le basi verbali possono distinguersi anche solo per una [[Jōdai tokushu kanazukai|sillaba kō o otsu]].
 
 | Verbo                       | *Izenkei*      | *Meireikei*    |

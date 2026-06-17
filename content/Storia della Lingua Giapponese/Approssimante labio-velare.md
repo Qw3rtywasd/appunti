@@ -1,0 +1,1 @@
+Nell’alfabeto fonetico internazionale (IPA), la lettera *w* indica l’<span class="underline">approssimante labio-velare</span>. È il suono prima della *o* in *uova*.

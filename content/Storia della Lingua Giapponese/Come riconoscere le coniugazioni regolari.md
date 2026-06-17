@@ -6,7 +6,7 @@ Tenendo conto l’ordine giapponese delle vocali *a i u e o* e guardando <span c
 - se solo ___e___ è *shimo ichidan*
 - se ___u___, ___e___ è *shimo nidan*
 
-![[verbi.svg]]
+![Diagramma](verbi.svg)
 # Esempi
 
 | Verbo                | *Mizenkei*   | *Ren'yōkei*   | *Shūshikei*     | *Rentaikei*     | *Izenkei*       | *Meireikei*         |

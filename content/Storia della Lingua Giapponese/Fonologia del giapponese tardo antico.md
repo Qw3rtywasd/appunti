@@ -13,8 +13,8 @@ Perdita della palatalizzazione?
 In alcune fonti, probabilmente per convenzione ortografica, vengono distinte *ko₁* e *ko₂* fino al 900 circa.
 ## Fusione delle sillabe *e* e *ye* (~950)
 ## Mutamenti del fonema /p/ (950-1000)
-/-p-/ diventa /-w-/ all’interno di parola quando è davanti a /a, i, e, o/ e scompare davanti a /u/.
-*kapa* \[kaβa] -> *kawa* \[kawa] ma nella scrittura rimane かは (*[[Rekishiteki kanazukai|rekishiteki kanazukai]]*). non avvenne in tutti i kango e alcuni wago (composti “trasparenti”) : esempio kango; asapi
+Il fonema /-p-/ all’interno di parola diventa /-w-/ quando è davanti a /a, i, e, o/ mentre scompare quando davanti a /u/.
+*kapa* \[kaβa] -> *kawa* \[kawa] ma nella scrittura rimane かは (vedi *[[Rekishiteki kanazukai|rekishiteki kanazukai]]*). non avvenne in tutti i kango e alcuni wago (composti “trasparenti”) : esempio kango; asapi
 
 | Parola in GA        | Parola in GTA | *[[Rekishiteki kanazukai]]* |
 | ------------------- | ------------- | --------------------------- |

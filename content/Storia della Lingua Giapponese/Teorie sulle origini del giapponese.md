@@ -1,15 +1,14 @@
 Il giapponese è l’unica lingua tra le più parlate al mondo di cui non si hanno origini certe.
-Le [[Fonti del giapponese antico|fonti scritte più antiche]] risalgono all’8° secolo e rivelano una lingua già molto evoluta: è quindi molto <span class="underline">difficile stabilire relazioni genealogiche</span> con altre lingue. Inoltre, per come veniva [[Man'yōgana|trascritta]] la lingua, <span class="underline">per ricostruire la pronuncia giapponese antica siamo obbligati a basarci su ricostruzioni del cinese medio</span>.
-
-Prime teorie:
+Le [[Fonti del giapponese antico|fonti scritte più antiche]] risalgono all’8° secolo e rivelano una lingua già molto evoluta: è quindi molto <span class="underline">difficile stabilire relazioni genealogiche</span> con altre lingue. Inoltre, per come veniva [[Man'yōgana|trascritta]] la lingua, per ricostruire la pronuncia giapponese antica siamo obbligati a basarci su ricostruzioni del cinese medio.
+# Prime teorie
 - Boller (1857): [[Lingue uralo-altaiche|lingue uralo-altaiche]]
 - Chamberlain (1895): lingue ryukyuane
 
 Nel 1908 Fujioka Katsuji compila una lista di tratti distintivi delle [[Lingue uralo-altaiche|lingue altaiche]], molti dei quali condivisi anche dal giapponese. Questa lista è stata criticata perché composta soprattutto da <span class="underline">caratteristiche tipologiche</span> (spesso lingue lontane possono avere tratti simili), <span class="underline">privative</span>, e perché non utilizza il [[Metodo comparativo|metodo comparativo]].
 # Principali teorie
 Gli studi fino ad oggi hanno seguito due linee principali:
-1. la ricerca di una famiglia d’origine del giapponese e altre lingue
-2. la ricerca di due o più lingue che si sono stratificate o mischiate per creare il giapponese
+1. la ricerca di una <span class="underline">famiglia d’origine</span> del giapponese e altre lingue
+2. la ricerca di due o più lingue che si sono <span class="underline">stratificate o mischiate</span> per creare il giapponese
 ## Teoria altaica
 Secondo questa teoria, il giapponese sarebbe legato alla famiglia delle [[Lingue uralo-altaiche|lingue uralo-altaiche]].
 Sostenitori:
@@ -21,7 +20,7 @@ Sostenitori:
 - Martine Robeets (2008)
 	- combina ricerche archeologiche e genetiche; ipotizza un’origine ancora più ampia (teoria transeuroasiatica)
 ### Correlazione con il coreano
-Sempre in ottica [[Lingue uralo-altaiche|altaica]], il giapponese e il coreano… sarebbero “lingue sorelle”. Hanno molti tratti simili…
+Sempre in ottica [[Lingue uralo-altaiche|altaica]], il giapponese e il coreano sarebbero “lingue sorelle”, data la presenza di molti tratti simili.
 - Ōno Susumu (1957)
 	- propone una lista di corrispondenze fonologiche tra parole giapponesi e coreane (poi criticata perché poche appartengono al [[Lessico nativo|lessico di base]])
 - Samuel Martin (1966)
@@ -43,9 +42,8 @@ Non ci sono dubbi sul fatto che il giapponese e le [[lingue delle Ryūkyū]] sia
 
 Sostenitori:
 - Chamberlain (1895)
-
-
 - Hattori (1959)
+	- identifica il giapponese e le lingue delle Ryūkyū come due rami evolutivi del [[#Proto-giapponese|proto-giapponese]]
 ### Correlazione con la lingua ainu
 Per la vicinanza geografica è stata proposta una relazione con la lingua ainu, ma si è accertato che tra le due lingue sono avvenuti solamente dei prestiti linguistici.
 ## Teorie di genesi stratificata o mista
@@ -71,23 +69,23 @@ flowchart TD
 
 ```
 
-Secondo Hokama (1981), le [[lingue delle Ryūkyū|lingue delle Ryūkyū]] si sarebbero differenziate dal giapponese antico tra il 2° e l’8° secolo.
+Secondo Hokama (1981), le lingue delle Ryūkyū si sarebbero differenziate dal giapponese antico tra il 2° e l’8° secolo.
 ### “*Peninsular Japonic*”
 Per alcuni una varietà di proto-giapponese sarebbe esistita anche in una parte della penisola coreana. “peninsular Japonic”. Questa teoria si basa sull’analisi di alcuni toponimi registrati nella cronaca coreana *Samguk sagi* 삼국사기 三国史記, che presentano <span class="underline">somiglianze semantiche e fonetiche</span> con il giapponese antico.
 
-| [[Fonogramma]] | Pronuncia in cinese medio | Pronuncia in sino-coreano | Significato | Giapponese antico |
-| -------------- | ------------------------- | ------------------------- | ----------- | ----------------- |
-| 旦              | *tan*                     | *tan*                     | ‘valle’     | *tani*            |
-| 那勿             | *na-mjut*                 | *namwul*                  | ‘piombo’    | *namari*          |
-| 美              | *mij*                     | *may*                     | ‘acqua’     | *mi₁*             |
+| [[Fonogramma]] | Pronuncia in cinese medio | Pronuncia in sino-coreano | Corrispondenza in giapponese antico |
+| -------------- | ------------------------- | ------------------------- | ----------------------------------- |
+| 旦              | *tan*                     | *tan*                     | *tani* ‘valle’                      |
+| 那勿             | *na-mjut*                 | *namwul*                  | *namari* ‘valle’                    |
+| 美              | *mij*                     | *may*                     | *mi₁* ‘acqua’                       |
 
-Questa teoria naturalmente si accorda con quelle che sostengono un’origine comune di giapponese e coreano.
+Questa teoria naturalmente si accorda con quelle che sostengono un’[[Teorie sulle origini del giapponese#Correlazione con il coreano|origine comune di giapponese e coreano]].
 Sostenitori:
 - Pellard
 - Beckwith
 - Ramsey
 - Lee
 ## Teorie screditate
-- Ōno Susumu (1980) teoria dravidica
+- Ōno Susumu (1980) correlazione con le lingue dravidiche (tamil)
 # ttt
 proto eastern japonic? > Hachijōjima e altre & Giapponese antico orientale (libri 14 azuma uta e 20 sakimori uta del manyoushu) da cui discende lingua di Hachijōjima

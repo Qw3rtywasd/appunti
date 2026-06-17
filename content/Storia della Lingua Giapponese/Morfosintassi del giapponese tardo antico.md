@@ -28,11 +28,11 @@ Nell periodo Heian compaiono i [[Nomi aggettivali|nomi aggettivali]], che si leg
 # [[Suffissi coniugabili]]
 Nuove forme come -*su* e -*sasu* sostituiscono, tranne che nelle [[Kunten|glosse ai testi cinesi]], -*simu* (causativo). Da questa distinzione -*simu* comincia ad essere considerato “virile” ed evitato nella letteratura femminile.
 # Particelle
-Nel giapponese tardo antico tra le 3 antiche particelle di genitivo *no*, *tu* e *na* solo *no* prevale. Delle altre rimane traccia solo in espressioni cristallizzate come *ma-na-ko* ‘pupilla’ e *ama-tu-sora* ‘il Cielo’. Analogamente tra le 4 particelle di provenienza *yu*, *yuri*, *yo* e *yori* solamente *yori* sopravvive.
+Nel giapponese tardo antico tra le tre antiche particelle di genitivo *no*, *tu* e *na* solo *no* prevale. Delle altre rimane traccia solo in espressioni cristallizzate come *ma-na-ko* ‘pupilla’ e *ama-tu-sora* ‘il Cielo’. Analogamente tra le 4 particelle di provenienza *yu*, *yuri*, *yo* e *yori* solamente *yori* sopravvive.
 Dalla contrazione di *nani* + *to* nasce la particella *nado*, rappresentata dal carattere 等 e quindi letta *ra* nei testi influenzati dal cinese.
 Delle due particelle enfatiche *namu* e *zo*, la prima viene usata solo nella prosa e la seconda nella poesia.
 # *Kakari musubi*
-Il *kakari musubi* è una struttura sintattica caratteristica del giapponese antico e tardo antico che scomparirà nel passaggio da giapponese medio a pre-moderno.
+Il *kakari musubi* è una <span class="underline">struttura sintattica</span> caratteristica del giapponese antico e tardo antico che scomparirà nel passaggio da giapponese medio a pre-moderno.
 In pratica, quando in una frase compare una particella enfatica o interrogativa, il verbo finale deve per forza cambiare forma per accordarsi con essa (anche se normalmente dovrebbe essere in forma conclusiva *shūshikei*). Nella maggior parte dei casi si trasforma in *rentaikei*, ma con la particella *koso* (e *ya* nel giapponese antico) si usa la *izenkei*.
 
 | Particella *kakari* | Forma *musubi*                                |

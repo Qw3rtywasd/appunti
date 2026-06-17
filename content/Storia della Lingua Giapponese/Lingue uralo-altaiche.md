@@ -1,2 +1,2 @@
 Le lingue uralo-altaiche fanno parte di una famiglia o gruppo di lingue (a seconda che si ipotizzi un’origine comune o che si siano solamente influenzate a vicenda) che si estende dalla Turchia all’Asia Orientale. Ancora <span class="underline">non è chiaro se coreano e giapponese ne facciano parte</span> (vedi [[Teorie sulle origini del giapponese#Teoria altaica|teorie sulle origini del giapponese]]).
-![[Altaic_family2.svg]]
+![Le lingue altaiche.](Altaic_family2.svg)
