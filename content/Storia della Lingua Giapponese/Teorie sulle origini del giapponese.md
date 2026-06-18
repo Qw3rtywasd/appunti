@@ -26,7 +26,7 @@ Sempre in ottica [[Lingue uralo-altaiche|altaica]], il giapponese e il coreano s
 - Samuel Martin (1966)
 	- elabora una lista di 320 paralleli lessicali tra giapponese e coreano
 - John Whitman (1985)
-- Alexander Vovin (2010)
+- Alexander Vovin (2010) ^oms8zc
 	- sostiene che giapponese e coreano si siano influenzate a vicenda, ma senza essere imparentate
 ### Correlazione con le lingue delle Ryūkyū
 Non ci sono dubbi sul fatto che il giapponese e le [[lingue delle Ryūkyū]] siano imparentate, dato che si riscontrano <span class="underline">corrispondenze sistematiche</span> di [[Fonologia#Fonema|fonemi]] e [[Morfologia#Morfema|morfemi]].
