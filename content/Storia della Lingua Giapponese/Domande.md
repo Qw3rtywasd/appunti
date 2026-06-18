@@ -211,19 +211,19 @@ Nessuna domanda 😄
 > La risposta
 
 > [!Question]- Qual è la caratteristica dello *Ametsuchi no uta* che suggerisce un cambiamento del sistema fonologico del giapponese tardo antico?
-> La risposta
+> La ripetizione della sillaba *e*. Data la natura didattica della poesia, una delle due *e* doveva essere in origine *ye*.
 
 > [!Question]- Perché l’attribuzione della stesura dello *Iroha uta* al monaco Kūkai si reputa infondata?
-> La risposta
+> Perché descrive i suoni di una lingua molto successiva alla morte di Kūkai.
 
 > [!Question]- Da quale periodo storico si cominciano a segnalare le sillabe sonore con il segno del *dakuten*?
-> La risposta
+> Dal periodo Kamakura.
 
 > [!Question]- In che secolo comincia ad essere utilizzato il segno ん del kana che indica la n moraica?
-> La risposta
+> Nell’11° secolo.
 
 > [!Question]- In che secolo si stabilizzò l’uso storico del *kana*, il cosiddetto *rekishiteki kanazukai*?
-> La risposta
+> Nel 13° secolo.
 
 # Lezione 10
 > [!Question]- Quanti sono i fonemi consonantici del giapponese tardo antico?
@@ -343,7 +343,7 @@ Nessuna domanda 😄
 > [!Question]- Secondo João Rodrigues le particelle *no* e *ga*, a parità di funzione, che differenza marcano dal punto di vista della connotazione del registro linguistico?
 > La risposta
 
-> [!Question]- Qual è l’origine della locuzione *ni oite* (‘a proposito’) che si diffonde del giapponese medio?
+> [!Question]- Qual è l’origine della locuzione *ni oite* (‘a proposito’) che si diffonde nel giapponese medio?
 > La risposta
 
 > [!Question]- In cosa consiste la graduale scomparsa del fenomeno del *kakari musubi*?
@@ -374,7 +374,7 @@ Nessuna domanda 😄
 > [!Question]- Da quando, durante il periodo Tokugawa, la lingua parlata a Edo tende a diventare lingua di riferimento per la comunicazione nazionale?
 > Dalla seconda metà del 18° secolo, quando la città diventa un centro politico e culturale.
 
-> [!Question]- Perché l’opera dal titolo *Ukiyoburo* è importante per l’analisi delle differenze diastratiche e diatopiche del giapponese premoderno?
+> [!Question]- Perché l’opera dal titolo *Ukiyoburo* è importante per l’analisi delle differ[[]]enze diastratiche e diatopiche del giapponese premoderno?
 > Perché *Ukiyoburo* di Shikitei Sanba presenta interazioni di personaggi provenienti da caste e luoghi differenti, riuniti nello spazio del bagno pubblico. Inoltre, essendo un testo umoristico del *gesaku*, rappresenta più fedelmente di altri generi la lingua parlata.
 
 > [!Question]- Oltre alla realizzazione \[eː] del dittongo /ei/, quali altri nessi vocalici si realizzano come \[eː] specificamente nella varietà di Edo?
@@ -387,16 +387,16 @@ Nessuna domanda 😄
 > Nella varietà parlata a Edo.
 
 > [!Question]- Il pronome personale *anata* nel giapponese premoderno assume funzione di pronome di 2ª persona. In precedenza quale persona indicava?
-> Inizialmente indicava la terza persona, come si intuisci dalla “*a*” iniziale tipica dei deittici di distanza (*ano*, *acchi*, ecc…).
+> Inizialmente indicava la terza persona, come si intuisci dalla “*a*” iniziale tipica dei [[Grammatica del giapponese tardo antico#Dimostrativi|deittici]] distali (*ano*, *are*, ecc…).
 
 > [!Question]- In quale parte del periodo Tokugawa è attestato un sistema verbale di sole 4 coniugazioni sul modello di quelle del giapponese moderno?
 > Nella seconda parte del periodo. Nella prima esistevano ancora 8 coniugazioni (la coniugazione irregolare in *ra* si era fusa alla coniugazione *yodan*).
 
 > [!Question]- La forma del dubitativo/volitivo -*bei* di quali dialetti è tipica?
-> È tipica dei dialetti del Kantō e in contesti letterari associata a provinciali o samurai di basso rango.
+> È tipica dei dialetti del Kantō e in contesti letterari viene associata a provinciali o samurai di basso rango.
 
 > [!Question]- Quali sono le principali forme della copula attestate nel giapponese premoderno e con quali specificità diatopiche?
-> *da* è usata nel Kantō mentre *ja* nel Kinki. La copula cortese *desu* sembra si sia diffusa a partire dai quartieri di piacere di Edo (faceva parte del socioletto delle cortigiane).
+> La copula *da* è usata nel Kantō mentre *ja* nel Kinki. La copula cortese *desu* sembra si sia diffusa a partire dai quartieri di piacere di Edo (faceva parte del socioletto delle cortigiane).
 
 > [!Question]- Quali fenomeni si accompagnano all’ulteriore diffusione del lessico si origine cinese (*kango*) a seconda anche dei ceti sociali dei parlanti?
 > La risposta
