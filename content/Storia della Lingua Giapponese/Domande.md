@@ -1,7 +1,6 @@
 %%
-!link ai block rilevanti
 unlisted per non apparire nel grafico
-Prova a rispondere alle domande, poi controlla le risposte per confrontarti.
+del fonema /p/
 %%
 # Lezione 1
 Nessuna domanda 😄
@@ -150,7 +149,7 @@ Nessuna domanda 😄
 > [!Question]- Cosa fornisce una prova della presenza di prenasalizzazione nelle consonanti medie?
 > La risposta
 
-> [!Question]- Da dove viene l’evidenza della realizzazione fonetica \[p] del fonema /p/, da cui ha origine il fonema /h/ del giapponese moderno?
+> [!Question]- Da dove viene l’evidenza della realizzazione fonetica [p] del fonema /p/, da cui ha origine il fonema /h/ del giapponese moderno?
 > La risposta
 
 > [!Question]- Nel giapponese antico, in quale posizione non ricorrono mai le sillabe che iniziano con la consonante liquida /r/?
@@ -451,3 +450,25 @@ Nessuna domanda 😄
 
 > [!Question]- In quale varietà regionale del periodo Meiji l’uso dei suffissi -*reru* e -*rareru* per esprimere l’onorifico dei verbi ha una distribuzione maggiore?
 > La risposta
+
+# Domande del primo appello
+## Chiuse
+1. Quale forma verbale è quella corretta per queste particelle (*ka*, *ya*, *namu*, *zo*) nel *[[Morfosintassi del giapponese tardo antico#*Kakari musubi*|kakari musubi]]*? (*rentaikei* al posto della normale *shūshikei* per tutte)
+2. [[Jōdai tokushu kanazukai#Hashimoto Shinkichi|Hashimoto Shinkichi]] cos’ha capito per primo del *[[Jōdai tokushu kanazukai|jōdai tokushu kanazukai]]*? (che rappresentava una differenza nella pronuncia delle due serie)
+3. Quando si è abbandonato lo stile classico per i documenti ufficiali, come la Costituzione? (1946)
+4. Cosa sono gli *[[Okototen|okototen]]*? (segni diacritici per aiutare a leggere il *[[Kanbun|kanbun]]*)
+5. Le copule *da* e *ja* sono tipiche di che dialetti nel giapponese contemporeaneo? (rispettivamente Kantō e Kansai)
+6. Quando è avvenuto il [[Fonologia del giapponese tardo antico#Mutamenti del fonema /p/ (950-1000)|mutamento p > w]]? (950-1000)
+7. Che tipo di *[[Fonologia del giapponese tardo antico#*Onbin*|onbin]]* si ha avuto in *warapite* > *waraite* > *waratte* e *yoki hodo* > *yoi hodo* > *yoppodo*? (*[[Fonologia del giapponese tardo antico#*I onbin* イ音便|i onbin]]* seguito da *[[Fonologia del giapponese tardo antico#*Hatsu onbin* 撥音便|hatsuonbin]]* ma la risposta era o uno o l’altro quindi non capisco)
+8. Quale lingua viene presa come modello standard della lingua nazionale nel periodo Meiji? (la lingua delle classi colte della Yamanote a Tōkyō)
+9. Cos’è l’*[[Ichidanka|ichidanka]]*? (fenomeno di passaggio di coniugazione dei verbi da *nidan*, bigrada, a *ichidan*, unigrada)
+10. Quale di questi testi è scritto in *[[Man'yōgana|man'yōgana]]*? (quello senza *hiragana* o *katakana*)
+11. Fino a quando /p/ veniva pronunciato \[Φ]? (periodo Tokugawa)
+12. Qual’è la caratteristica delle [[Fonologia del giapponese antico#Tenui e medie|tenui]] in giapponese antico? (si sonorizzano all’interno di parola)
+13. Quale di questi è un calco morfologico dall’olandese? (結膜)
+
+## Aperte
+1. Quali sono le evidenze della realizzazione \[p] del fonema /\*p/ che in giapponese contemporaneo è /h/?
+2. Quali sono i più importanti *kirishitan shiryō* e qual’è la loro importanza?
+3. Spiegare le nuove opposizioni fonologiche nate dal contatto con le lingue europee.
+4. Cos’è la teoria del “*[[Teorie sulle origini del giapponese#“*Peninsular Japonic*”|peninsular Japonic]]*” e su cosa si basa?
