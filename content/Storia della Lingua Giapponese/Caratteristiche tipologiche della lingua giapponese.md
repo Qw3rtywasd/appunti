@@ -1,6 +1,6 @@
 - Virtualmente isolata (vedi [[Teorie sulle origini del giapponese|teorie sulle origini del giapponese]])
 - Continuum di variazione diatopica (dialetti) solo all’interno del Giappone
-- [Accento tonale](https://www.youtube.com/watch?v=6MrL7Nl9G2k)
+- Accento tonale
 - Tipologia [[Morfologia|morfologica]] [[Flessione|flessivo]]-[[Agglutinazione|agglutinante]]
 - Struttura grammaticale: ordine sintattico SOV; struttura [[Tema e rema|tema-rema]]
 - Sistema di scrittura ibrido

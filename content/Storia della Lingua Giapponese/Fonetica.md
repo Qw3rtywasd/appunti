@@ -3,4 +3,6 @@ La fonetica studia e descrive come vengono prodotti fisicamente i suoni di una l
 Il fono è un qualsiasi suono del linguaggio.
 # Trascrizione fonetica
 La trascrizione fonetica registra l'effettiva pronuncia di una parola, comprese eventuali varianti [[Allofoni|allofoniche]].
-Si indica tra parentesi quadre: \[ezempjo].
+Si indica tra parentesi quadre: \[ezempjo][^1].
+
+[^1]: Pronuncia del Nord Italia.

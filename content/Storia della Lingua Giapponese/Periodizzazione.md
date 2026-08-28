@@ -1,3 +1,5 @@
+L’evoluzione di una lingua è un processo fluido e continuo. I mutamenti possono nascere all’interno di contesti (di classe, geografici, ecc…) specifici e poi diffondersi (o sparire) in tempi diversi, anche molto lunghi. Per questo è difficile dividere la storia di una lingua in periodi, ma per il giapponese la seguente periodizzazione è abbastanza accettata:
+
 | Periodi storici                               | Lingua                                           | Sigla |
 | --------------------------------------------- | ------------------------------------------------ | ----- |
 | 710 Nara                                      | Giapponese antico (*jōdai nihongo*, 上代日本語)       | GA    |

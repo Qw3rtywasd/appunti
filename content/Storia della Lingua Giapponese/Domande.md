@@ -465,10 +465,10 @@ Nessuna domanda 😄
 10. Quale di questi testi è scritto in *[[Man'yōgana|man'yōgana]]*? (quello senza *hiragana* o *katakana*)
 11. Fino a quando /p/ veniva pronunciato \[Φ]? (periodo Tokugawa)
 12. Qual’è la caratteristica delle [[Fonologia del giapponese antico#Tenui e medie|tenui]] in giapponese antico? (si sonorizzano all’interno di parola)
-13. Quale di questi è un calco morfologico dall’olandese? (結膜)
+13. Quale di questi è un [[calco]] morfologico dall’olandese? (結膜)
 
 ## Aperte
 1. Quali sono le evidenze della realizzazione \[p] del fonema /\*p/ che in giapponese contemporaneo è /h/?
 2. Quali sono i più importanti *kirishitan shiryō* e qual’è la loro importanza?
-3. Spiegare le nuove opposizioni fonologiche nate dal contatto con le lingue europee.
+3. Spiegare le [[Fonologia del giapponese contemporaneo|nuove opposizioni fonologiche nate dal contatto con le lingue europee]].
 4. Cos’è la teoria del “*[[Teorie sulle origini del giapponese#“*Peninsular Japonic*”|peninsular Japonic]]*” e su cosa si basa?

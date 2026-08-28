@@ -1,5 +1,5 @@
 La flessione modifica il significato delle parole cambiandone la forma base.
-In giapponese si ha nella costruzione delle basi verbali:
+In giapponese è presente nella costruzione delle basi verbali:
 
 | 未然形 | 死な  |
 | --- | --- |
